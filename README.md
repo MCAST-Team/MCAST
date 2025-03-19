@@ -22,9 +22,8 @@
 ## 如何使用
 
 1. **下载MCAST**：从[这里](https://github.com/IPlayForPlayer/MCAST/releases)，选择兼容您计算机版本的MCAST(x32/x64/x86)。
-2. **安装MCAST**：运行MCAST Installer，按照操作提示进行安装。
+2. **安装MCAST**：运行MCAST Installer，按照操作提示进行安装。\n
 ![image](https://github.com/user-attachments/assets/a13674c9-477d-4c61-b06a-209b402edf1e)
-
 4. **开始使用**：在安装完成后，在桌面点击快捷方式启动。
 
 ## 贡献
@@ -39,7 +38,6 @@
 
 如果你有任何问题或反馈，请通过以下方式联系我们：
 
-- 邮箱：support@mcast.
+- 邮箱：support@mcast.top
+- QQ群: XXXXXXXXX
 - GitHub Issues: [提交Issue](https://github.com/IPlayForPlayer/MCAST/issues)
-
-感谢你使用Minecraft全能工具箱！希望它能为你带来更好的Minecraft体验。
