@@ -1,6 +1,7 @@
 # Minecraft全能工具箱
 
-欢迎使用Minecraft全能工具箱！这是一个旨在为Minecraft玩家和服务器管理员提供一站式服务的工具集合。无论你是想分析日志、调试服务器，还是寻找模组/插件冲突，这个工具箱都能帮助你轻松完成任务。
+欢迎使用Minecraft全能工具箱！这是一个旨在为Minecraft玩家和服主提供一站式服务的工具集合。无论你是想分析日志、调试服务器，还是寻找模组/插件冲突，这个工具箱都能帮助你轻松完成任务。
+（本质上是兼容客户端的，所以客户端崩了也可以拿这个分析日志awa）
 
 ## 功能列表
 
@@ -20,9 +21,10 @@
 
 ## 如何使用
 
-1. **下载工具箱**：从[这里](#)下载最新版本的Minecraft全能工具箱。
-2. **运行工具箱**：双击运行工具箱，选择你需要的功能。
-3. **开始使用**：根据提示操作，享受便捷的Minecraft工具服务。
+1. **下载MCAST**：从[这里](https://github.com/IPlayForPlayer/MCAST/releases)，选择兼容您计算机版本的MCAST(x32/x64/x86)。
+2. **安装MCAST**：运行MCAST Installer，按照操作提示进行安装。
+![image](https://github.com/user-attachments/assets/a13674c9-477d-4c61-b06a-209b402edf1e)
+4. **开始使用**：根据提示操作，享受便捷的Minecraft工具服务。
 
 ## 贡献
 
@@ -31,12 +33,12 @@
 ## 许可证
 
 本项目采用 **[GPL-3.0 许可证](LICENSE)**。你可以自由使用、修改和分发代码，但请遵守GPL-3.0许可证的要求。
-
+本仓库只开源基础框架代码，敏感操作类代码不进行开源（如API访问和服务器连接），不过一个框架够了，差不多开源的有80%左右。
 ## 联系我们
 
 如果你有任何问题或反馈，请通过以下方式联系我们：
 
-- 邮箱：support@minecrafttoolbox.com
-- GitHub Issues: [提交Issue](#)
+- 邮箱：support@mcast.
+- GitHub Issues: [提交Issue](https://github.com/IPlayForPlayer/MCAST/issues)
 
 感谢你使用Minecraft全能工具箱！希望它能为你带来更好的Minecraft体验。
