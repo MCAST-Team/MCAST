@@ -1,6 +1,6 @@
-# Minecraft全能工具箱
+# Minecraft All-in-One Solution Toolbox
 
-欢迎使用Minecraft全能工具箱！这是一个旨在为Minecraft玩家和服主提供一站式服务的工具集合。无论你是想分析日志、调试服务器，还是寻找模组/插件冲突，这个工具箱都能帮助你轻松完成任务。
+欢迎使用Minecraft All-in-One Solution Toolbox！这是一个旨在为Minecraft玩家和服主提供一站式服务的工具集合。无论你是想分析日志、调试服务器，还是寻找模组/插件冲突，这个工具箱都能帮助你轻松完成任务。
 （本质上是兼容客户端的，所以客户端崩了也可以拿这个分析日志awa）
 
 ## 功能列表
@@ -24,7 +24,8 @@
 1. **下载MCAST**：从[这里](https://github.com/IPlayForPlayer/MCAST/releases)，选择兼容您计算机版本的MCAST(x32/x64/x86)。
 2. **安装MCAST**：运行MCAST Installer，按照操作提示进行安装。
 ![image](https://github.com/user-attachments/assets/a13674c9-477d-4c61-b06a-209b402edf1e)
-4. **开始使用**：根据提示操作，享受便捷的Minecraft工具服务。
+
+4. **开始使用**：在安装完成后，在桌面点击快捷方式启动。
 
 ## 贡献
 
