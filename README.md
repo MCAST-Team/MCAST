@@ -59,4 +59,4 @@
 
 ## 特别提醒
 
-本软件采用了[MCSL][https://github.com/MCSLTeam/MCSL2]的部分源代码（占比在12%左右），并且严格遵守GPL3.0协议进行开源，望周知~
+本软件采用了 [MCSL](https://github.com/MCSLTeam/MCSL2) 的部分源代码（占比在12%左右），并且严格遵守GPL3.0协议进行开源，望周知~
