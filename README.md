@@ -49,7 +49,7 @@
 - QQ群: XXXXXXXXX
 - GitHub Issues: [提交Issue](https://github.com/IPlayForPlayer/MCAST/issues)
 
-##友情链接
+## 友情链接
 
 [MSL/现代化Minecraft开服软件](https://github.com/MSLTeam/MSL)
 
