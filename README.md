@@ -51,11 +51,11 @@
 
 ##友情链接
 
-[MSL/现代化Minecraft开服软件][https://github.com/MSLTeam/MSL]
+[MSL/现代化Minecraft开服软件](https://github.com/MSLTeam/MSL)
 
-[MCSL/基于Python和FluentUI的现代化Minecraft开服软件][https://github.com/MCSLTeam/MCSL2]
+[MCSL/基于Python和FluentUI的现代化Minecraft开服软件](https://github.com/MCSLTeam/MCSL2)
 
-[EN/基于Python的无UI获取每日新闻的软件][https://github.com/FanYaRou/EverydayNews]
+[EN/基于Python的无UI获取每日新闻的软件](https://github.com/FanYaRou/EverydayNews)
 
 ## 特别提醒
 
