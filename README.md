@@ -57,7 +57,3 @@
 [MCSL/基于Python和FluentUI的现代化Minecraft开服软件](https://github.com/MCSLTeam/MCSL2)
 
 [EN/基于Python的无UI获取每日新闻的软件](https://github.com/FanYaRou/EverydayNews)
-
-## 特别提醒
-
-本软件采用了 [MCSL](https://github.com/MCSLTeam/MCSL2) 的部分源代码（占比在5%左右），并且严格遵守GPL3.0协议进行开源，望周知~
