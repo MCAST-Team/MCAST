@@ -13,6 +13,7 @@
  ![GitHub downloads](https://img.shields.io/github/downloads/FanYaRou/MCAST/total)
  ![GitHub stars](https://img.shields.io/github/stars/FanYaRou/MCAST)
  ![GitHub forks](https://img.shields.io/github/forks/FanYaRou/MCAST)
+ ![Custom badge](https://img.shields.io/badge/语言-中文-blue)
 
 ## 功能列表
 
