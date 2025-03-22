@@ -8,6 +8,12 @@
 
 **正式放出时间：2025.7.***
 
+![GitHub contributors](https://img.shields.io/github/contributors/FanYaRou/MCAST)
+ ![GitHub release](https://img.shields.io/github/release/FanYaRou/MCAST)
+ ![GitHub downloads](https://img.shields.io/github/downloads/FanYaRou/MCAST/total)
+ ![GitHub stars](https://img.shields.io/github/stars/FanYaRou/MCAST)
+ ![GitHub forks](https://img.shields.io/github/forks/FanYaRou/MCAST)
+
 ## 功能列表
 
 ### 已实现功能
