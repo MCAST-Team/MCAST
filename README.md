@@ -1,4 +1,4 @@
-# Minecraft All-in-One Solution Toolbox
+# Minecraft All-in-One Solution Toolbox![MC AST](https://img.shields.io/badge/MC-AST-black?logoColor=orange&colorA=black&colorB=orange)
 
 欢迎使用Minecraft All-in-One Solution Toolbox！这是一个旨在为Minecraft玩家和服主提供一站式服务的工具集合。无论你是想分析日志、调试服务器，还是寻找模组/插件冲突，这个工具箱都能帮助你轻松完成任务。
 
