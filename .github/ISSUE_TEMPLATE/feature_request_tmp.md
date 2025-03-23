@@ -1,31 +1,18 @@
 ---
-name: Bug Report
-about: 报告一个错误
-title: "[BUG]"
-labels: bug
+name: Feature Request
+about: 提出新功能建议
+title: "[FEATURE]"
+labels: enhancement
 assignees: 
   - your-username
 
 ---
 
-**描述错误**
-清晰描述错误情况。
+**功能描述**
+清晰描述你希望添加的功能。
 
-**重现步骤**
-1. 进入 '...'
-2. 点击 '....'
-3. 查看错误
-
-**预期行为**
-描述你期望的结果。
-
-**截图**
-如有，请提供截图。
-
-**环境信息**
-- 操作系统: [如 Windows 10]
-- 浏览器: [如 Chrome 90]
-- 版本: [如 1.0.0]
+**为什么需要这个功能**
+解释该功能的用途和好处。
 
 **附加信息**
 其他相关说明。
