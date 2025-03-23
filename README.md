@@ -21,8 +21,8 @@
   <a href="https://github.com/FanYaRou/MCAST/network/members">
     <img src="https://img.shields.io/github/forks/FanYaRou/MCAST" alt="GitHub Forks">
   </a>
+  <img src="https://img.shields.io/badge/语言-简体中文-blue" alt="语言">
 </p>
- ![Custom badge](https://img.shields.io/badge/语言-简体中文-blue)
 
 ## 功能列表
 
