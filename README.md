@@ -18,9 +18,14 @@
   <a href="https://github.com/FanYaRou/MCAST/network/members">
     <img src="https://img.shields.io/github/forks/FanYaRou/MCAST" alt="GitHub Forks">
   </a>
+  <a href="https://github.com/FanYaRou/MCAST/releases">
+    <img src="https://img.shields.io/github/downloads/FanYaRou/MCAST/total" alt="GitHub Downloads">
+  </a>
+  <a href="https://github.com/FanYaRou/MCAST/actions">
+    <img src="https://img.shields.io/github/workflow/status/FanYaRou/MCAST/CI" alt="GitHub Build Status">
+  </a>
   <img src="https://img.shields.io/badge/语言-简体中文-blue" alt="语言">
 </p>
-
 ## 功能列表
 
 > #### 已实现功能
