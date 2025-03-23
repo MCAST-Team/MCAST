@@ -64,7 +64,7 @@
 
 - 邮箱：support@mcast.top
 - QQ群: XXXXXXXXX
-- GitHub Issues: [提交Issue](https://github.com/IPlayForPlayer/MCAST/issues)
+- GitHub Issues: [![提交 Issues](https://img.shields.io/badge/提交-Issues-gray?logoColor=white&colorA=gray&colorB=blue)](https://github.com/FanYaRou/MCAST/issues/new/choose)
 
 ## 友情链接
 
