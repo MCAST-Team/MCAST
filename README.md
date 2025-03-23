@@ -9,9 +9,6 @@
 **正式放出时间：2025.7.***
 
 <p align="center">
-  <a href="https://github.com/FanYaRou/MCAST">
-    <img src="https://img.shields.io/badge/MC-AST-black?logoColor=orange&colorA=black&colorB=orange" alt="MC AST Badge">
-  </a>
   <a href="https://github.com/FanYaRou/MCAST/issues">
     <img src="https://img.shields.io/github/issues/FanYaRou/MCAST" alt="GitHub Issues">
   </a>
