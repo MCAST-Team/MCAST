@@ -8,7 +8,7 @@
 
 **请注意！MCAST暂未进行发布！目前仍旧为InDEV阶段！**
 
-**正式放出时间：2025.7.***
+**正式放出时间：2025.7.***（最晚）
 
 <p align="center">
   <a href="https://github.com/FanYaRou/MCAST/issues">
