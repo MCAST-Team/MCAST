@@ -66,7 +66,7 @@
 如果你有任何问题或反馈，请通过以下方式联系我们：
 
 - 邮箱：support@mcast.top
-- QQ群: XXXXXXXXX
+- QQ群: 
 - GitHub Issues: [![提交 Issues](https://img.shields.io/badge/提交-Issues-gray?logoColor=white&colorA=gray&colorB=blue)](https://github.com/FanYaRou/MCAST/issues/new/choose)
 
 ## 友情链接
