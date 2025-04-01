@@ -11,16 +11,16 @@
 **正式放出时间：2025.7.***（最晚）
 
 <p align="center">
-  <a href="https://github.com/FanYaRou/MCAST/issues">
+  <a href="https://github.com/MCAST-Team/MCAST/issues">
     <img src="https://img.shields.io/github/issues/FanYaRou/MCAST" alt="GitHub Issues">
   </a>
-  <a href="https://github.com/FanYaRou/MCAST/stargazers">
+  <a href="https://github.com/MCAST-Team/MCAST/stargazers">
     <img src="https://img.shields.io/github/stars/FanYaRou/MCAST" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/FanYaRou/MCAST/network/members">
+  <a href="https://github.com/MCAST-Team/MCAST/network/members">
     <img src="https://img.shields.io/github/forks/FanYaRou/MCAST" alt="GitHub Forks">
   </a>
-  <a href="https://github.com/FanYaRou/MCAST/releases">
+  <a href="https://github.com/MCAST-Team/MCAST/releases">
     <img src="https://img.shields.io/github/downloads/FanYaRou/MCAST/total" alt="GitHub Downloads">
   </a>
   <img src="https://img.shields.io/badge/语言-简体中文-blue" alt="语言">
@@ -45,7 +45,7 @@
 
 ## 如何使用
 
-1. **下载MCAST**：从[Release](https://github.com/IPlayForPlayer/MCAST/releases)选择兼容您计算机版本的MCAST，并下载对应版本的MCAST Installer(x32/x64/x86)。
+1. **下载MCAST**：从[Release](https://github.com/MCAST-Team/MCAST/releases)选择兼容您计算机版本的MCAST，并下载对应版本的MCAST Installer(x32/x64/x86)。
 2. **安装MCAST**：运行MCAST Installer，按照操作提示进行安装。
    
 ![image](https://github.com/user-attachments/assets/a13674c9-477d-4c61-b06a-209b402edf1e)
@@ -67,7 +67,7 @@
 
 - 邮箱：support@mcast.top
 - QQ群: 
-- GitHub Issues: [![提交 Issues](https://img.shields.io/badge/提交-Issues-gray?logoColor=white&colorA=gray&colorB=blue)](https://github.com/FanYaRou/MCAST/issues/new/choose)
+- GitHub Issues: [![提交 Issues](https://img.shields.io/badge/提交-Issues-gray?logoColor=white&colorA=gray&colorB=blue)](https://github.com/MCAST-Team/MCAST/issues/new/choose)
 
 ## 友情链接
 
